@@ -1,5 +1,7 @@
 const helloWorld = () => {
-  console.log("Git Is Awesome!");
+  let userInput = prompt("Please leave any input here");
+
+  console.log(userInput);
 };
 
 helloWorld();
