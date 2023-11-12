@@ -1,5 +1,5 @@
 const helloWorld = () => {
-  let userInput = prompt("Please leave any input here");
+  let userInput = prompt("Hello User! Please Greet Back By Typing Hello Below");
 
   console.log(userInput);
 };
